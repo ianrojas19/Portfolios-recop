@@ -28,7 +28,7 @@ header {
     padding-left: 30px;
     padding-right: 30px;
     justify-content: space-between;
-    background-image: url(/imagenes/Simple\ Shiny.svg);
+    background-image: url(http://localhost/portfolios-main/imagenes/jkla.svg);
     background-size: cover;
     background-position: center;
 }
@@ -212,7 +212,7 @@ section {
 h2, #preguntas h1 {
     margin: 0;
     padding: 23px;
-    background-image: url(/imagenes/Simple\ Shiny.svg);
+    background-image: url(http://localhost/portfolios-main/imagenes/jkla.svg);
     background-size: cover;
     color: white;
     border-bottom: 5px solid #dd2727;
@@ -469,12 +469,12 @@ h2, #preguntas h1 {
 }
 
 .proyecto-booking {
-    background-image: url(/imagenes/project.jpg);
+    background-image: url(http://localhost/portfolios-main/imagenes/project.jpg);
 
 }
 
 .proyecto-encriptador {
-    background-image: url(/imagenes/encriptador-alura.png);
+    background-image: url(http://localhost/portfolios-main/imagenes/encriptador-alura.png);
 }
 
 .goto-github {
@@ -644,7 +644,7 @@ footer {
     /* Texto del footer */
     padding: 20px;
     text-align: center;
-    background-image: url(/imagenes/Simple\ Shiny.svg);
+    background-image: url(http://localhost/portfolios-main/imagenes/jkla.svg);
     background-size: cover;
     background-clip: fixed;
 }
